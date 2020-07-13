@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Demo</string>
+    <string name="toolHead">APOD NASA</string>
+    <string name="key">X6A7usXMC9zXsegToqjqBYvM38UWB0LqRblYfVim</string>
+    <string name="InterNetError">Please check your Internet Connection!</string>
+
+
 </resources>

@@ -1,12 +1,13 @@
 package com.example.demo.data.model
 
 import com.google.gson.annotations.SerializedName
+import java.io.Serializable
 
 data class Movie(
 
 	@field:SerializedName("page")
 	val page: Page? = null
-)
+) : Serializable
 
 data class ContentItem(
 

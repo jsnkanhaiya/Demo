@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "977347606897",
+    "firebase_url": "https://diagonal-ce364.firebaseio.com",
+    "project_id": "diagonal-ce364",
+    "storage_bucket": "diagonal-ce364.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977347606897:android:c71f14c97806e9a24e5ed0",
+        "android_client_info": {
+          "package_name": "com.example.demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "977347606897-c60dqg82iu2mc4ao2tv73al48lruu6tt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0ZJK-mZU5AjY25lqI11ZH_60GtzsGRUQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "977347606897-c60dqg82iu2mc4ao2tv73al48lruu6tt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
